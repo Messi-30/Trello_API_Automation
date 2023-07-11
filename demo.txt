@@ -1,0 +1,15 @@
+ Volume in drive C is Windows
+ Volume Serial Number is F6D5-09D0
+
+ Directory of C:\Users\DEV\Intellij IDEA projects\TrelloAPI
+
+11-07-2023  16:28    <DIR>          .
+22-06-2023  11:35    <DIR>          ..
+04-06-2023  13:11               490 .gitignore
+11-07-2023  13:20    <DIR>          .idea
+11-07-2023  16:28                 0 demo.txt
+14-06-2023  12:46             1,713 pom.xml
+04-06-2023  13:11    <DIR>          src
+13-06-2023  12:34    <DIR>          target
+               3 File(s)          2,203 bytes
+               5 Dir(s)  593,396,178,944 bytes free
